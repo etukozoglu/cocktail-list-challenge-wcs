@@ -1,0 +1,52 @@
+/* Styles for the overall container */
+div {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+/* Styles for the heading */
+h2 {
+    color: #2c3e50;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+/* Styles for the list of cocktails */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+/* Styles for each cocktail card */
+li {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+}
+
+/* Styles for images in the cocktail cards */
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+/* Styling the cocktail name to stand out */
+strong {
+    font-size: 18px;
+    color: #34495e;
+    margin-right: 10px;
+}
+
+/* Styling the price */
+p {
+    margin: 0;
+    color: #16a085;
+    font-weight: bold;
+}

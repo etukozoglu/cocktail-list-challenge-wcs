@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Sex on the beach",
+        "price": 10,
+        "img": "https://www.destinationcocktails.fr/wp-content/uploads/2019/11/cocktail-sex-on-the-beach-2.jpg"
+    },
+    {
+        "name": "Marguarita",
+        "price": 13,
+        "img": "https://www.siroter.com/cocktails/margarita-cocktail-393_0.jpg"
+    },
+    {
+        "name": "Martini",
+        "price": 8,
+        "img": "https://drinkch.rokka.io/new-composition-1200/o-dpr-2/e1c25a.jpg"
+    },
+    {
+        "name": "Pina Colada",
+        "price": 12,
+        "img": "https://www.laboutiquedubarman.fr/img/cms/pina%20colada.png"
+    },
+    {
+        "name": "Moscow Mule",
+        "price": 9,
+        "img": "https://www.1001cocktails.com/wp-content/uploads/1001cocktails/2023/03/137002_origin-615x410.jpg"
+    }
+]

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cocktails</title>
+</head>
+
+<body>
+    <div>
+        <h2>Cocktail List</h2>
+        <ul>
+            <li *ngFor="let cocktail of cocktails">
+                <img [src]="cocktail.img" alt="{{cocktail.name}}" />
+                <strong>{{ cocktail.name }}</strong>
+                <p>{{ cocktail.price }}</p>
+            </li>
+        </ul>
+    </div>
+
+</body>
+
+</html>
